@@ -23,10 +23,10 @@ $ python fb1.py
 ## Cara Update
 ```php
 $ cd
-$ cd fb1
+$ cd fbi
 $ ls ( L kecil ) 
 $ git pull
-$ python fb1.py
+$ python fbi.py
 ```
 ## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
