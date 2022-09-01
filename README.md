@@ -17,8 +17,8 @@ $ pip install rich bs4
 $ pip install --upgrade pip
 $ git clone https://github.com/RIDWAN-XD778/FREE1
 $ ls ( L kecil )
-$ cd fb1
-$ python fb1.py
+$ cd fbi
+$ python fbi.py
 ```
 ## Cara Update
 ```php
